@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p0004&label=Profile%20views&color=0e75b6&style=flat" alt="p0004" /> </p>
 
-- 🔭 I’m currently working on [Wearable Device Design with Continuous Cuff-less Blood Pressure Measurement](https://www.monash.edu/engineering/mehmetyuce#research)
+- 🔭 I’m currently working on [Non-Invasive Cuffless Blood Pressure Prediction Framework in Validation Model through Ablation Studies](https://www.monash.edu/engineering/mehmetyuce#research)
 
 - 🌱 I’m currently learning **Tensorflow Framework**
 
